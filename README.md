@@ -45,7 +45,11 @@ Progress
 - [x] Week 4: Conducted network analysis to investigate accessibility to emergency facilities.
 - [x] Week 5: Compared travel-distance patterns with population distribution and identified wards for further attention.
 - [x] Week 6: Documented the findings, limitations, and possible planning recommendations.
+      
+
 
 > **Adeniyi Damilola Adeniran**. GeoDev Lab Africa learn. Collaborate. Transform
+>
+
 
  see [project-brief](01-Project-brief.md) for the full project brief
