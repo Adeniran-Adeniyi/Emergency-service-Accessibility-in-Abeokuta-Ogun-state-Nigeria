@@ -14,6 +14,7 @@
 | 4 | Road | vector | August 20 | Ok |
 
 
+
 ### GRID3 Nigeria Operational Local Government Area (LGA) Boundaries (administrative level 2)
 
 * source: [GRID3]()
@@ -24,6 +25,7 @@
 * columns:ID_0, ISO, NAME_0, ID_1, NAME_1, ID_2, NAME_2, TYPE_2, ENGTYPE_2, NL_NAME_2, VARNAME_2
 * No null in ward name
 * cover my study area fully
+  
 
 
 ### OSM roads, Extracted via Quick OSM
@@ -37,6 +39,8 @@
 * many have no surface tag, so paved and unpaved can not be separeted everywhere
 * Coverage looks good in the built-up area, sparse at the edge
 
+  
+
 ### Police station 
 
 * source: [GRID3]()
@@ -47,6 +51,7 @@
 * columns:ID_0, ISO, NAME_0, ID_1, NAME_1, ID_2, NAME_2, TYPE_2, ENGTYPE_2, NL_NAME_2, VARNAME_2
 * No null in ward name
 * cover my study area fully
+  
 
   ###  Fire station
   
@@ -58,6 +63,7 @@
 * columns:ID_0, ISO, NAME_0, ID_1, NAME_1, ID_2, NAME_2, TYPE_2, ENGTYPE_2, NL_NAME_2, VARNAME_2
 * No null in ward name
 * cover my study area fully
+
 
   **Status:** week 2 complete. Reprojection and quality check in Week 3, see [Data preparation](03-data-preparation.md)
   
