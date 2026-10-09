@@ -16,12 +16,12 @@
 
 | Dataset                             | CRS as downloaded            | CRS after preparation | Operation                |
 | ----------------------------------- | ---------------------------- | --------------------- | ------------------------ |
-| Ward boundaries                     | To be confirmed              | EPSG:32631            | Reprojected if required  |
-| Road network                        | To be confirmed              | EPSG:32631            | Reprojected if required  |
-| Fire stations                       | To be confirmed              | EPSG:32631            | Reprojected if required  |
-| Police stations                     | To be confirmed              | EPSG:32631            | Reprojected if required  |
-| Ward centroids                      | Derived from ward boundaries | EPSG:32631            | Generated or reprojected |
-| Population                       | Derived from ward boundaries | EPSG:32631            | Generated or reprojected |
+| Ward boundaries                     | EPSG:4326             | EPSG:32631            | Reprojected  |
+| Road network                        | EPSG:4326             | EPSG:32631            | Reprojected  |
+| Fire stations                       | EPSG:4326              | EPSG:32631            | Reprojected  |
+| Police stations                     | EPSG:4326             | EPSG:32631            | Reprojected   |
+| Ward centroids                      | Derived from ward boundaries | EPSG:32631            | Generated  |
+| Population                       | EPSG:4326 | EPSG:32631            | Reprojected  |
 
 
 > Reprojecting transforms coordinates from one coordinate reference system to another. Assigning a CRS only defines how existing coordinates should be interpreted; it does not transform them.
