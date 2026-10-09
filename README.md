@@ -48,4 +48,4 @@ Progress
 
 > **Adeniyi Damilola Adeniran**. GeoDev Lab Africa learn. Collaborate. Transform
 
- see [project-brief](01-Project-brief.md)
+ see [project-brief](01-Project-brief.md) for the full project brief
