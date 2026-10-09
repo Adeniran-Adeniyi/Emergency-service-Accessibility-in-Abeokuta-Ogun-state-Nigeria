@@ -4,7 +4,7 @@
 ---
 ## GeoDev Lab Africa, Cohort One
 > *prepared by: Adeniyi Damilola Adeniran*
----
+
 
 ## The Question 
 
@@ -54,6 +54,6 @@ Progress
 
 > **Adeniyi Damilola Adeniran**. GeoDev Lab Africa learn. Collaborate. Transform
 
-
+---
 
  see [project-brief](01-project-brief.md) for the full project brief
