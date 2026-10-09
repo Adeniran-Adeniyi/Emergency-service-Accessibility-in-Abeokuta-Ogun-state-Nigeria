@@ -63,6 +63,7 @@
 * columns:ID_0, ISO, NAME_0, ID_1, NAME_1, ID_2, NAME_2, TYPE_2, ENGTYPE_2, NL_NAME_2, VARNAME_2
 * No null in ward name
 * cover my study area fully
+  
 
 
   **Status:** week 2 complete. Reprojection and quality check in Week 3, see [Data preparation](03-data-preparation.md)
