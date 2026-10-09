@@ -150,8 +150,10 @@ I used five checks to review the prepared datasets before analysis.
 
 This stage reinforced three important lessons:
 
- *Consistent coordinate systems matter.* Spatial datasets need compatible coordinate systems for accurate distance analysis.
+ *Consistent coordinate systems matter.* Spatial datasets need compatible coordinate systems for accurate distance analysis
+ 
 *Data quality affects accessibility results.* Missing facilities, incomplete roads, and disconnected network segments can influence the results.
+
 *Preparation comes before analysis.* Reliable network analysis depends on correctly prepared boundaries, roads, and emergency facility locations.
 
 ---
