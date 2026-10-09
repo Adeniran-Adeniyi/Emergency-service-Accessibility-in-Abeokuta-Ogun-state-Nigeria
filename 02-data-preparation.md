@@ -55,12 +55,11 @@ The ward boundaries were also prepared to support accessibility analysis at ward
 
 | Dataset                   | Features before clipping | Features after clipping |
 | ------------------------- | -----------------------: | ----------------------: |
-| Administrative boundaries |          To be confirmed |                  2 LGAs |
-| Ward boundaries           |          To be confirmed |         To be confirmed |
-| Road network              |          To be confirmed |         To be confirmed |
-| Fire stations             |          To be confirmed |         To be confirmed |
-| Police stations           |          To be confirmed |         To be confirmed |
-| Population            |          To be confirmed |         To be confirmed |
+| Ward boundaries           |       4044   |   42 |
+| Road network              |     6461  |  6461 |
+| Fire stations             |  44   |   11    |
+| Police stations           |    802    |   1  |
+| Population            |    raster        |     columns and row 502, 496    |
 
 *Note: The feature counts should be updated using the actual results from the GIS processing.*
 
