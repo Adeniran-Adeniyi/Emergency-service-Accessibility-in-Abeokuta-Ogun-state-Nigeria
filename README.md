@@ -39,12 +39,12 @@ Emergency-Service-Accessibility-Abeokuta/
 > Note: **The exact workflow and software requirements will depend on the final files included in the repository**.
 
 Progress
-[x] Week 1: Defined the project question and study area.
-[x] Week 2: Identified and prepared the required spatial datasets.
-[x] Week 3: Prepared the ward boundaries, road network, and emergency facility locations.
-[x] Week 4: Conducted network analysis to investigate accessibility to emergency facilities.
-[x] Week 5: Compared travel-distance patterns with population distribution and identified wards for further attention.
-[x] Week 6: Documented the findings, limitations, and possible planning recommendations.
+- [x] Week 1: Defined the project question and study area.
+- [x] Week 2: Identified and prepared the required spatial datasets.
+- [x] Week 3: Prepared the ward boundaries, road network, and emergency facility locations.
+- [x] Week 4: Conducted network analysis to investigate accessibility to emergency facilities.
+- [x] Week 5: Compared travel-distance patterns with population distribution and identified wards for further attention.
+- [x] Week 6: Documented the findings, limitations, and possible planning recommendations.
 
 > **Adeniyi Damilola Adeniran**. GeoDev Lab Africa learn. Collaborate. Transform
 
