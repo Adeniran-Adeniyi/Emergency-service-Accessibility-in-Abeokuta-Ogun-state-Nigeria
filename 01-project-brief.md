@@ -77,5 +77,5 @@
 
 ---
 
-  **Status:** week 2 complete. Reprojection and quality check in Week 3, see [Data preparation](03-data-preparation.md)
+  **Status:** week 2 complete. Reprojection and quality check in Week 3, see [Data preparation](02-data-preparation.md)
   
