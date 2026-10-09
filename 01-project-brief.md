@@ -2,6 +2,8 @@
 
 **week 2 deliverable.** GeoDev Lab Africa, Cohort One. 
 
+>  Author: Adeniyi Damilola Adeniran 
+
 ## Summary
 
 | SN | Dataset | Type | Retriveed | Status|
@@ -13,6 +15,7 @@
 
 
 ### GRID3 Nigeria Operational Local Government Area (LGA) Boundaries (administrative level 2)
+
 * source: [GRID3]()
 * Downloaded:Friday, September 4, 2026 5:30:38 PM
 * Total size: 19 KB,
@@ -24,6 +27,7 @@
 
 
 ### OSM roads, Extracted via Quick OSM
+
 * Source: [openstreetmap]()
 * Quary: highway=* within Abeokuta zone
 * Extracted: Extracted date: Friday, September 4, 2026 8:31:38 PM
@@ -34,6 +38,7 @@
 * Coverage looks good in the built-up area, sparse at the edge
 
 ### Police station 
+
 * source: [GRID3]()
 * Downloaded:Friday, September 4, 2026 5:30:38 PM
 * Total size: 19 KB,
@@ -44,7 +49,8 @@
 * cover my study area fully
 
   ###  Fire station
-  * source: [GRID3]()
+  
+* source: [GRID3]()
 * Downloaded:Friday, September 4, 2026 5:30:38 PM
 * Total size: 19 KB,
 * CRS: EPSG:4326 - WGS 84
