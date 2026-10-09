@@ -75,5 +75,7 @@
 * raster, GeoTiff
 * cover my study area fully
 
+---
+
   **Status:** week 2 complete. Reprojection and quality check in Week 3, see [Data preparation](03-data-preparation.md)
   
