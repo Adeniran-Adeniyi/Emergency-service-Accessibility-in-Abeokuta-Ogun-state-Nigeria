@@ -29,7 +29,7 @@ Combining road-network distances with population data will help show where poten
 
 > To understand how travel distance relates to the number of people living in each ward, I combined the travel-distance results with ward population data.
 This provides another way to examine potential emergency service access gaps by considering both how far people may need to travel and the population living in each ward.
-
+---
 #### Key Findings
 
 **Idiya** recorded the highest distance–population product at 23,429,994.82.
@@ -37,13 +37,15 @@ This provides another way to examine potential emergency service access gaps by 
 **Ikereku 2** recorded 10,042,461.27.
 **Imala** had the highest travel distance at 371.82, with a distance–population product of 6,060,927.28.
 **Ibara 1** recorded the lowest distance–population product at 483,207.70.
-
+---
 #### What This Means
 
 > The results show that wards with the longest travel distances are not necessarily the same wards with the highest distance–population products. Considering both factors helps provide a broader picture of potential accessibility challenges.
 
 > Idiya stands out because of its high distance–population product, while Imala stands out for its long travel distance. These wards may warrant further investigation when assessing emergency service accessibility.
-
+---
+**check out the chart below:**
+![Emergency service distribution chart ](Abk-Emergency-image/charts.jpg)
 
 
 ### Important Note
