@@ -163,7 +163,7 @@ Preparing these datasets established the foundation for investigating how easily
 
 **Status:** Week 3 — Data preparation.
 
-**Next:** Network analysis to investigate road-based accessibility to emergency facilities and identify wards with longer travel distances.
+**Next:** Network analysis to investigate road-based accessibility to emergency facilities and identify wards with longer travel distances. see [summary](04-summary.md)
 
 ---
 
