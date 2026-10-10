@@ -47,29 +47,37 @@ This provides another way to examine potential emergency service access gaps by 
 *This chart shows the distribution of emergency service accessibility across Abeokuta metropolitan area by comparing travel distance with population in each ward:*
 ![Emergency service distribution chart ](Abk-Emergency-image/charts.jpg)
 
+---
 
-### Important Note
-
-The distance–population product is a combined indicator, not a direct count of people affected by poor access. A high value does not, by itself, prove that more residents experience delayed emergency response.
-
-The results should be interpreted alongside the original travel distances, population figures, facility locations, and road-network conditions. The distance unit should also be confirmed before making further comparisons.
-
-The results will highlight:
-
-- Wards with the longest road-network distances to emergency stations.
-- Differences in access to police and fire services.
-- Population living in wards with potential accessibility challenges.
-- Areas that may require further attention when planning emergency service coverage.
+**The results will highlight:**
+* Wards with the longest road-network distances to emergency stations.
+* Differences in access to police and fire services.
+* Population living in wards with potential accessibility challenges.
+* Areas that may require further attention when planning emergency service coverage
+  
+---
 
 ## Maps Generated
 
 The following maps will be added as the project progresses:
 
-- Distribution of police and fire stations across the study area.
-- Road-network accessibility from ward centres to emergency stations.
-- Wards ranked by distance to emergency facilities.
-- Population distribution across the 31 wards.
-- Combined map showing population and potential emergency service access gaps.
+*Distribution of police and fire stations across the study area.*
+![Distribution of emergency service](Abk-Emergency-image/Emergency-distribution.png)
+
+---
+*emergency service accessibility from ward centres to emergency stations.*
+[OD-cost matrix](Abk-Emergency-image/OD-cost-matrix.png)
+
+---
+*Wards ranked by distance to emergency facilities*.
+[travel distance by ward](Abk-Emergency-image/travel-distance2.png)
+
+---
+*Wards ranked by distance to emergency facilities and population distribution*.
+[travel distance x population](Abk-Emergency-image/travel-distance_population.png)
+
+
+Combined map showing population and potential emergency service access gaps.
 
 ## Limitations
 
