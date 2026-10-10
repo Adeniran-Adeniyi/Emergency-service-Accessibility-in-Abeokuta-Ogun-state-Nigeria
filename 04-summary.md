@@ -95,3 +95,6 @@ The following maps will be added as the project progresses:
 
 > This project explores how GIS can help answer a practical question: **How easily can people reach emergency services in Abeokuta?** By combining emergency station locations, road networks, and population data, 
 
+
+> Adeniran Adeniyi Damilola · GeoDev Lab Africa
+> *Learn. Build. Collaborate. Transform.*
