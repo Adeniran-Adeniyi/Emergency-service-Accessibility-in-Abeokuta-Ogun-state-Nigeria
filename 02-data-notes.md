@@ -27,7 +27,9 @@
 * No null in ward name
 * cover my study area fully
   
- QUARY : ```SELECT* FROM NGA_Ward WHERE "lganame" = 'Abeokuta South' OR "lganame" = 'Abeokuta North'```
+``` 
+QUARY : SELECT* FROM NGA_Ward WHERE "lganame" = 'Abeokuta South' OR "lganame" = 'Abeokuta North'
+```
  
 ---
 
@@ -35,7 +37,9 @@
 ### OSM roads, Extracted via Quick OSM
 
 * Source: [openstreetmap](https://www.openstreetmap.org/#map=9/7.278/3.441)
-* Quary: ```highway=* within Abk_north_south```
+```
+Quary: highway=* within Abk_north_south
+```
 * Extracted: Extracted date: Friday, September 4, 2026 8:31:38 PM
 * Total size: (1.2 MB),
 * CRS: EPSG:4326 - WGS 84
