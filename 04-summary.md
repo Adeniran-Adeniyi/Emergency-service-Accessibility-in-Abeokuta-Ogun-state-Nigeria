@@ -66,15 +66,15 @@ The following maps will be added as the project progresses:
 
 ---
 *emergency service accessibility from ward centres to emergency stations.*
-[OD-cost matrix](Abk-Emergency-image/OD-cost-matrix.png)
+![OD-cost matrix](Abk-Emergency-image/OD-cost-matrix.png)
 
 ---
 *Wards ranked by distance to emergency facilities*.
-[travel distance by ward](Abk-Emergency-image/travel-distance2.png)
+![travel distance by ward](Abk-Emergency-image/travel-distance2.png)
 
 ---
 *Wards ranked by distance to emergency facilities and population distribution*.
-[travel distance x population](Abk-Emergency-image/travel-distance_population.png)
+![travel distance x population](Abk-Emergency-image/travel-distance_population.png)
 
 
 > Combined map showing population and potential emergency service access gaps.
