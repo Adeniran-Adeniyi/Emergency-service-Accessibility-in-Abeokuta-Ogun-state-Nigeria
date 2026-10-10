@@ -19,6 +19,8 @@
 ## Study Area
 
 > The study area is Abeokuta metropolitan area in Ogun State, Nigeria. It comprises two Local Government Areas (Abeokuta North and Abeokuta South) Together, these two local government areas contain 31 wards, namely Iberekodo 1, Iberekodo 2, Iberekodo 3, Iberekodo 4, Iberekodo 5, Idiya, Ikereku 1, Ikereku 2, Imala, Olorunda, Sabo 1, Sabo 2, Totoro 1,Totoro 2,Totoro 3,Totoro 4, Ake 1, Ake 2, Ake 3, Emere, Ibara 1, Ibara 2, Igbore, Ijaiye, Ijemo, Ijeun Titun, Iporo Sodeke, Itoko, Kemta, Kuto, Oke Ijeun which form the geographical units for this study.
+*the study area*
+![Abeokuta Metro](Abk-Emergency-image/Study-area.png)
 
 ---
 ### Study Area Selection
