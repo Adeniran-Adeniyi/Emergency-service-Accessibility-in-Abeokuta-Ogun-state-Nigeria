@@ -77,28 +77,22 @@ The following maps will be added as the project progresses:
 [travel distance x population](Abk-Emergency-image/travel-distance_population.png)
 
 
-Combined map showing population and potential emergency service access gaps.
+> Combined map showing population and potential emergency service access gaps.
 
-## Limitations
+### Limitations
 
 - Distance to a ward centre may not represent the actual distance from every household to an emergency station.
 - Road-network distance does not account for traffic congestion, road conditions, or emergency response time.
 - Population estimates may not reflect the exact number of people currently living in each ward.
 - The analysis depends on the completeness and accuracy of the facility and road-network data.
 - Distance alone does not determine emergency service quality or availability.
+---
+### What I Still Need
 
-## What I Still Need
+* Complete and verified locations of police and fire stations.
+* Additional information on emergency facility capacity and service coverage, where available.
+---
+### Project Reflection
 
-- Complete and verified locations of police and fire stations.
-- A reliable road network suitable for route analysis.
-- Population data for all 31 wards.
-- Travel-time or traffic data to improve accessibility estimates.
-- Additional information on emergency facility capacity and service coverage, where available.
+> This project explores how GIS can help answer a practical question: **How easily can people reach emergency services in Abeokuta?** By combining emergency station locations, road networks, and population data, 
 
-## Project Reflection
-
-This project explores how GIS can help answer a practical question: **How easily can people reach emergency services in Abeokuta?**
-
-By combining emergency station locations, road networks, and population data, I aim to move beyond simply mapping facilities to understanding which communities may face greater difficulty accessing them.
-
-The goal is to turn geospatial data into useful information that can support emergency service planning and better-informed decisions.
