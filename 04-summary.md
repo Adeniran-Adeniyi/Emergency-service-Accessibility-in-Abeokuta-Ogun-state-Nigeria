@@ -81,7 +81,6 @@ The following maps will be added as the project progresses:
 
 ### Limitations
 
-- Distance to a ward centre may not represent the actual distance from every household to an emergency station.
 - Road-network distance does not account for traffic congestion, road conditions, or emergency response time.
 - Population estimates may not reflect the exact number of people currently living in each ward.
 - The analysis depends on the completeness and accuracy of the facility and road-network data.
